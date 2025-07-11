@@ -12,7 +12,7 @@ This repo helps me solidify problem-solving techniques, understand data structur
 ## 📌 About
 
 - 👩🏻‍💻 Language: **C++**
-- 🌐 Platform: [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Aadya2901/practice/)
+- 🌐 Platform: [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aadyapatel2901/practice/)
 - 🧠 Topics: Arrays, Strings, LinkedLists, Trees, Stacks, Queues, Recursion, DP, Backtracking & more
 - 📁 Structure: Organized topic-wise
 - 🗓️ Updated: Regularly
